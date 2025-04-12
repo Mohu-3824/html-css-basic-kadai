@@ -1,6 +1,9 @@
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 1.25rem;
   text-align: center;
 }
 .blue {
@@ -19,6 +22,6 @@ h1 {
   text-shadow: 2px 2px 4px brown;
   border-bottom: 2px solid rgb(115, 115, 114);
 }
-div p {
+#basic > p {
   font-weight: bold;
 }
